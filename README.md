@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirkocifelli" alt="mirkocifelli" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, SASS, JavaScript, Bootstrapp, Vue.js, Vite, PHP, mySQL, Laravel**
+- 🌱 I’m currently learning **HTML, CSS, SASS, JavaScript, Bootstrapp, Vue.js, Vite, PHP, MySQL, Laravel**
 
 - 📫 How to reach me **cifellimirko@gmail.com**
 
